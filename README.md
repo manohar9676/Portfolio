@@ -2,18 +2,6 @@
 
 Self Coded Portfolio Website made using React JS and Chakra UI.
 
-
-<p align="center"> 
-  <kbd>
-    <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/intro.jpg" >
-  </a>
-  </kbd>
-</p>
-
-## Live Demo 
-
-- Click [here](https://rahulkp15.onrender.com/) to view the live demo.
-
 ## Features 📋
 
 ⚡️ Dark and Light Theme \
@@ -37,32 +25,12 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 - [React.js](https://react.dev/)
 - [Chakra UI](https://chakra-ui.com/)
 
-## Screenshots
-
-### Laptop Views
-
-<p align="center"> 
-  <kbd>
-    <a href="https://rahulkp15.onrender.com/" target="_blank"><img src="./images/laptopView.jpg">
-  </a>
-  </kbd>
-</p>
-
-### Mobile Views
-
-<div align="center"> 
-  <kbd>
- <img src="./images/mobile-view-1.jpg" width="400" height="400">
- <img src="./images/mobile-view-2.jpg" width="400" height="400">
-  </kbd>
-</div>
-
 ## Getting Started ⚡ :-
 
 **1. Clone this repo by running the following command :-**
 
 ```bash
- git clone https://github.com/Rahul1582/portfolio-rahulkp.git
+ git clone https://github.com/manohar9676/Portfolio
 ```
 
 **2. Now Install all the required packages by running the following commands :-**
@@ -84,10 +52,6 @@ Self Coded Portfolio Website made using React JS and Chakra UI.
 This Web Application is deployed to Render.
 
 You could also host directly with Render by linking your own repository.
-
-
-## License 📄
-This project is licensed under the Apache-2.0 License - see the [LICENSE.md](./LICENSE) file for details
 
 
 ## Show your Support
