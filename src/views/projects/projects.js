@@ -13,9 +13,6 @@ import PetSellerProject from "../../assets/projects/PetSellerProject.png";
 import VidTubeWebsite from "../../assets/projects/VidTubeWebsite.png";
 import StayconnectWebsite from "../../assets/projects/StayconnectWebsite.png";
 import Calculator from "../../assets/projects/Calculator.png"
-import eeg from "../../assets/projects/eeg_500x300.jpg";
-import mtrans from "../../assets/projects/mt_500x300.jpg";
-import steg from "../../assets/projects/steg_500x300.jpeg";
 
 export default function Projects() {
   const textColorPrimary = useColorModeValue(
